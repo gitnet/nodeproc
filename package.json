@@ -1,0 +1,19 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "to view resturant products menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitnet/resturant.git"
+  },
+  "author": "mohd ismail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitnet/resturant/issues"
+  },
+  "homepage": "https://github.com/gitnet/resturant#readme"
+}
